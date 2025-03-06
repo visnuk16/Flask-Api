@@ -9,8 +9,8 @@ CREATE TABLE Customer(
 
 INSERT INTO Customer 
 (id, name, mail) VALUES 
-(1,'visnu','visnu@gmail'),
-(2,'visnu','visnu@gmail');
+(1,'kavin','kavin@gmail'),
+(2,'kavin','kavin@gmail');
 
 SELECT * FROM Customer;
 
